@@ -1,28 +1,3 @@
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-<!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>wuxug.github.io-wuxug.com</title>
-<meta name="generator" content="Jekyll v3.9.3" />
-<meta property="og:title" content="wuxug.github.io" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://wuxug.github.io/" />
-<meta property="og:url" content="https://wuxug.github.io/" />
-<meta property="og:site_name" content="wuxug.github.io" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"wuxug.com","name":"wuxug.github.io","url":"https://wuxug.github.io/"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link rel="stylesheet" href="/assets/css/style.css?v=aa6b8d920083ab1e47fdfc9c7829b54e40ea9f88">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
-
-
 # wuxug.github.io
 
 
@@ -51,6 +26,3 @@
    [KOLET注册地址 APP官方 下载](https://trykolet.app.link/app-referral)
 
    说明 以上都可以写入 5BAR ESTK 等 用读卡器 或者ESTK 已经安装有流量的ESIM 可以直接下载
-
-
-
