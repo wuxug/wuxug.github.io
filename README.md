@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>文档标题</title>
+<title>免费资源分享</title>
 </head>
 <body>
 	<h1>wuxug.com</h1>
